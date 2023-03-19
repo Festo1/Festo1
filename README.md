@@ -1,6 +1,6 @@
 ![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg)
 <h1 align="center">Hi 👋, I'm Festo Muwanguzi</h1>
-<h3 align="center">As a software engineer with a passion for coding and a drive to create innovative solutions, I have dedicated my career to developing cutting-edge applications and tools that push the boundaries of what is possible. With extensive experience in Software development, and other industry-standard technologies, I have honed my skills to become a highly effective developer capable of delivering outstanding results.</h3>
+<h3 align="center">A software engineer with a passion for coding and a drive to create innovative solutions, I have dedicated my career to developing cutting-edge applications and tools that push the boundaries of what is possible. With extensive experience in Software development, and other industry-standard technologies, I have honed my skills to become a highly effective developer capable of delivering outstanding results.</h3>
 
 <img align="right" alt="Softaware" width="400" src="https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif">
 
