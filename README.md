@@ -26,7 +26,7 @@
 
 <h3 align="left">Support:</h3>
 
-<a href="https://www.buymeacoffee.com/festoug"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=festoug&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/festoug"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=festoug&button_colour=38f702&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=festo1&show_icons=true&locale=en&layout=compact" alt="festo1" /></p>
 
