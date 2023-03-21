@@ -33,8 +33,18 @@
 
 <a href="https://www.buymeacoffee.com/festoug"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=festoug&button_colour=38f702&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=festo1&show_icons=true&locale=en&layout=compact" alt="festo1" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Festo1&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Festo1&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Festo1&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=festo1&show_icons=true&locale=en" alt="festo1" /></p>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=festo_alx)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=festo1&" alt="festo1" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Festo1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
