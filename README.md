@@ -41,7 +41,7 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=festo_alx)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Festp's Quote
+### ✍️ Random Festo's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
