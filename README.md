@@ -42,7 +42,7 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=festo_alx)](https://twitter.com/Festo_alx/status/1622224421602693124)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Festo Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
