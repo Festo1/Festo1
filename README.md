@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Festo1](https://github.com/Festo1)
 
-- 💬 Ask me about **PHP, MySQL, HTML, and CSS**
+- 💬 Ask me about **HTML, CSS, PHP, MySQL, Javascript**
 
 - 📫 How to reach me **festoeducation@gmail.com**
 
