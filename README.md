@@ -1,5 +1,7 @@
 ![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+a+software+developer)](https://git.io/typing-svg)
+
 <h1 align="center">Hi<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Festo Muwanguzi</h1>
 
 <h3 align="center">A software engineer with a passion for coding and a drive to create innovative solutions, I have dedicated my career to developing cutting-edge applications and tools that push the boundaries of what is possible. With extensive experience in Software development, and other industry-standard technologies, I have honed my skills to become a highly effective developer capable of delivering outstanding results.</h3>
