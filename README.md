@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/festo_alx" target="blank"><img src="https://img.shields.io/twitter/follow/festo_alx?logo=twitter&style=for-the-badge" alt="festo_alx" /></a> </p>
 
-- 🌱 I’m currently **A student at ALX**
+- 🌱 I’m currently **A student at Jain University**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Festo1](https://github.com/Festo1)
 
