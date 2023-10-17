@@ -1,4 +1,4 @@
-![+256754230525](https://github.com/Festo1/Festo1/assets/123329373/b5c0c5f7-7121-4f0c-a177-312bc311dcde)
+![my banner (2560 x 772 px) (2560 x 772 px)](https://github.com/Festo1/Festo1/assets/123329373/1df88d8a-99cf-4784-be47-b67ad086f39c)
 
 <h1 align="center">Hi<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Festo Muwanguzi</h1>
 
