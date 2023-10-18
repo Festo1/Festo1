@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Festo Muwanguzi</h1>
 
-<h3 align="center">A software engineer 👨‍💻 driven by a passion for coding 💻 and a commitment to creating innovative solutions 🚀. My career has been dedicated to developing cutting-edge applications 📲 and tools 🛠️ that push the boundaries of possibility 🌌. With extensive experience in software development and proficiency in industry-standard technologies 🌐, I have honed my skills to become a highly effective developer capable of delivering outstanding results 🏆..</h3>
+<h3 align="center" A passionate software engineer dedicated to creating innovative solutions with extensive experience in software development and exceptional proficiency in industry-standard technologies. 🚀..</h3>
 
 <img align="right" alt="Softaware" width="400" src="https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif">
 
