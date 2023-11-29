@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/festo-muwanguzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="festo-muwanguzi" height="30" width="40" /></a>
 <a href="https://instagram.com/festo_alx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="festo_alx" height="30" width="40" /></a>
 <a href="https://youtube.com/@festoeducation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@festoeducation" height="30" width="40" /></a>
-<a href="https://discord.gg/Du95b7c3Vj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Du95b7c3Vj" height="30" width="40" /></a>
+<a href="https://discord.gg/e9XUgq6JpP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Du95b7c3Vj" height="30" width="40" /></a>
 </p>
 
 ## Tech Stack 💻
