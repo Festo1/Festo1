@@ -6,11 +6,15 @@
 
 <h3 align="center"> A passionate software engineer dedicated to creating innovative solutions with extensive experience in software development and exceptional proficiency in industry-standard technologies. 🚀..</h3>
 
-<img align="right" alt="Softaware" width="400" src="https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif">
+<img align="right" alt="Softaware" width="400" src="https://github.com/festoug/festoug/assets/103335071/c96c3a3d-8616-4ff7-a849-e1199be96cfc">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=festo1&label=Profile%20views&color=0e75b6&style=flat" alt="festo1" /> </p>
+###
 
-<p align="left"> <a href="https://twitter.com/festo_alx" target="blank"><img src="https://img.shields.io/twitter/follow/festo_alx?logo=twitter&style=for-the-badge" alt="festo_alx" /></a> </p>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Festo1.Festo1&left_color=goldenrod&right_color=darkgreen&left_text=Profile%20views"  />
+
+### <br>
+
+<p align="left"> <a href="https://twitter.com/festo_ug" target="blank"><img src="https://img.shields.io/twitter/follow/festo_ug?logo=twitter&style=for-the-badge" alt="festo_ug" /></a> </p>
 
 - 🌱 I’m currently **A at student Holberton School**
 
@@ -21,13 +25,34 @@
 - 📫 How to reach me **festoeducation@gmail.com**
 
 <h3 align="left"> <b>Connect with me</b>: <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70"></h3>
-<p align="left">
-<a href="https://twitter.com/festo_alx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="festo_alx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/festo-muwanguzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="festo-muwanguzi" height="30" width="40" /></a>
-<a href="https://instagram.com/festo_alx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="festo_alx" height="30" width="40" /></a>
-<a href="https://youtube.com/@festoeducation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@festoeducation" height="30" width="40" /></a>
-<a href="https://discord.gg/e9XUgq6JpP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Du95b7c3Vj" height="30" width="40" /></a>
-</p>
+
+###
+
+<div align="left">
+   <a href="https://mail.google.com/mail/u/4/#inbox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+      <a href="https://twitter.com/festo_ug" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/channels/festo1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/festo-muwanguzi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+    <a href="https://www.youtube.com/@Discussion_Central" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://patreon.com/SoftwareEngineer960" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="47" height="35" alt="patreon logo"  />
+  </a>
+  <a href="https://t.me/Festo_ug" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
+  </a>
+</div>
+
+###
 
 ## Tech Stack 💻
 #### Languages
@@ -105,8 +130,14 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Festo1&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Festo1/Festo1/output/snake.svg" alt="Snake animation" />
+
+###
 
  ### Thanks for Visiting my GitHub Profile!
 
