@@ -119,9 +119,9 @@
 <a href="https://www.buymeacoffee.com/festoug"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=festoug&button_colour=38f702&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Festo1&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Festo1&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Festo1&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Festo1&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Festo1&theme=merko&hide_border=false)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=festo_alx)](https://twitter.com/Festo_alx/status/1622224421602693124)
