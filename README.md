@@ -1,5 +1,3 @@
-![my banner (2560 x 772 px) (2560 x 772 px)](https://github.com/Festo1/Festo1/assets/123329373/1df88d8a-99cf-4784-be47-b67ad086f39c)
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Festo+Muwanguzi!;" />
 </h1>
