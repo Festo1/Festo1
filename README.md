@@ -4,7 +4,7 @@
 
 <h3 align="center"> A passionate software engineer dedicated to creating innovative solutions with extensive experience in software development and exceptional proficiency in industry-standard technologies. 🚀..</h3>
 
-<img align="right" alt="Softaware" width="400" src="https://github.com/Festo1/Festo1/issues/3#issue-2289508914">
+<img align="right" alt="Softaware" width="400" src="https://github.com/Festo1/Festo1/assets/123329373/e872c701-bb24-4bd2-86ca-e8b2d4df7e2c">
 
 ###
 
