@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Festo+Muwanguzi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Festo+Wampamba!;" />
 </h1>
 
 <h3 align="center"> A passionate software engineer dedicated to creating innovative solutions with extensive experience in software development and exceptional proficiency in industry-standard technologies. 🚀..</h3>
